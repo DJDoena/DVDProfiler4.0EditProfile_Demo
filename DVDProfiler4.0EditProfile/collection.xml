@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!--DVD Profiler Collection Export-->
+<Collection>
+  <DVD>
+    <ProfileTimestamp>2013-12-07T16:36:14.000Z</ProfileTimestamp>
+    <ID>043396353398</ID>
+    <MediaTypes>
+      <DVD>true</DVD>
+      <HDDVD>false</HDDVD>
+      <BluRay>false</BluRay>
+    </MediaTypes>
+    <UPC>043396-353398</UPC>
+    <CollectionNumber>4</CollectionNumber>
+    <CollectionType IsPartOfOwnedCollection="true">Owned</CollectionType>
+    <Title>The Boondocks: The Complete Third Season</Title>
+    <DistTrait/>
+    <OriginalTitle/>
+    <CountryOfOrigin>United States</CountryOfOrigin>
+    <CountryOfOrigin2/>
+    <CountryOfOrigin3/>
+    <ProductionYear>2010</ProductionYear>
+    <Released>2010-11-09</Released>
+    <RunningTime>335</RunningTime>
+    <RatingSystem>Television</RatingSystem>
+    <Rating>NR</Rating>
+    <RatingAge>0</RatingAge>
+    <RatingVariant>1</RatingVariant>
+    <CaseType>Keep Case</CaseType>
+    <CaseSlipCover>true</CaseSlipCover>
+    <Genres>
+      <Genre>Animation</Genre>
+      <Genre>Comedy</Genre>
+      <Genre>Television</Genre>
+    </Genres>
+    <Regions>
+      <Region>1</Region>
+    </Regions>
+    <Format>
+      <FormatAspectRatio>1.78</FormatAspectRatio>
+      <FormatVideoStandard>NTSC</FormatVideoStandard>
+      <ColorFormat>
+        <ClrColor>true</ClrColor>
+        <ClrBlackAndWhite>false</ClrBlackAndWhite>
+        <ClrColorized>false</ClrColorized>
+        <ClrMixed>false</ClrMixed>
+      </ColorFormat>
+      <FormatLetterBox>true</FormatLetterBox>
+      <FormatPanAndScan>false</FormatPanAndScan>
+      <FormatFullFrame>false</FormatFullFrame>
+      <Format16X9>true</Format16X9>
+      <FormatDualSided>false</FormatDualSided>
+      <FormatDualLayered>true</FormatDualLayered>
+      <Dimensions>
+        <Dim2D>true</Dim2D>
+        <Dim3DAnaglyph>false</Dim3DAnaglyph>
+        <Dim3DBluRay>false</Dim3DBluRay>
+      </Dimensions>
+    </Format>
+    <Features>
+      <FeatureSceneAccess>true</FeatureSceneAccess>
+      <FeatureCommentary>true</FeatureCommentary>
+      <FeatureTrailer>true</FeatureTrailer>
+      <FeaturePhotoGallery>true</FeaturePhotoGallery>
+      <FeatureDeletedScenes>true</FeatureDeletedScenes>
+      <FeatureMakingOf>true</FeatureMakingOf>
+      <FeatureProductionNotes>true</FeatureProductionNotes>
+      <FeatureGame>true</FeatureGame>
+      <FeatureDVDROMContent>true</FeatureDVDROMContent>
+      <FeatureMultiAngle>true</FeatureMultiAngle>
+      <FeatureMusicVideos>true</FeatureMusicVideos>
+      <FeatureInterviews>true</FeatureInterviews>
+      <FeatureStoryboardComparisons>true</FeatureStoryboardComparisons>
+      <FeatureOuttakes>true</FeatureOuttakes>
+      <FeatureClosedCaptioned>true</FeatureClosedCaptioned>
+      <FeatureTHXCertified>true</FeatureTHXCertified>
+      <FeaturePIP>false</FeaturePIP>
+      <FeatureBDLive>false</FeatureBDLive>
+      <FeatureBonusTrailers>true</FeatureBonusTrailers>
+      <FeatureDigitalCopy>true</FeatureDigitalCopy>
+      <OtherFeatures/>
+    </Features>
+    <Studios>
+      <Studio>Sony Pictures Television</Studio>
+      <Studio>Rebel Base</Studio>
+    </Studios>
+    <MediaCompanies>
+      <MediaCompany>Sony Pictures Home Entertainment</MediaCompany>
+    </MediaCompanies>
+    <Audio>
+      <AudioTrack>
+        <AudioContent>English</AudioContent>
+        <AudioFormat>Dolby Digital</AudioFormat>
+        <AudioChannels>5.1</AudioChannels>
+      </AudioTrack>
+      <AudioTrack>
+        <AudioContent>Audio Descriptive</AudioContent>
+        <AudioFormat>Dolby Digital</AudioFormat>
+        <AudioChannels>5.1</AudioChannels>
+      </AudioTrack>
+      <AudioTrack>
+        <AudioContent>Commentary</AudioContent>
+        <AudioFormat>Dolby Digital</AudioFormat>
+        <AudioChannels>5.1</AudioChannels>
+      </AudioTrack>
+      <AudioTrack>
+        <AudioContent>Special Effects</AudioContent>
+        <AudioFormat>Dolby Digital</AudioFormat>
+        <AudioChannels>5.1</AudioChannels>
+      </AudioTrack>
+    </Audio>
+    <Subtitles>
+      <Subtitle>Danish</Subtitle>
+      <Subtitle>English</Subtitle>
+      <Subtitle>Commentary</Subtitle>
+      <Subtitle>Trivia</Subtitle>
+    </Subtitles>
+    <SRP DenominationType="USD" DenominationDesc="United States (Dollar)" FormattedValue="$49,95">49.95</SRP>
+    <Actors/>
+    <Credits>
+      <Divider Caption="1. It&apos;s a Black President, Huey Freeman" Type="Episode"/>
+      <Credit FirstName="Sung" MiddleName="Dae" LastName="Kang" BirthYear="0" CreditType="Direction" CreditSubtype="Director" CreditedAs=""/>
+      <Credit FirstName="Aaron" MiddleName="" LastName="McGruder" BirthYear="0" CreditType="Writing" CreditSubtype="Created By" CreditedAs=""/>
+      <Credit FirstName="Aaron" MiddleName="" LastName="McGruder" BirthYear="0" CreditType="Writing" CreditSubtype="Writer" CreditedAs=""/>
+      <Credit FirstName="Aaron" MiddleName="" LastName="McGruder" BirthYear="0" CreditType="Production" CreditSubtype="Executive Producer" CreditedAs=""/>
+      <Credit FirstName="Rodney" MiddleName="" LastName="Barnes" BirthYear="0" CreditType="Production" CreditSubtype="Executive Producer" CreditedAs=""/>
+      <Credit FirstName="Seung" MiddleName="Eun" LastName="Kim" BirthYear="0" CreditType="Production" CreditSubtype="Producer" CreditedAs=""/>
+      <Credit FirstName="Brian" MiddleName="" LastName="Ash" BirthYear="0" CreditType="Production" CreditSubtype="Producer" CreditedAs=""/>
+      <Credit FirstName="Lee" MiddleName="" LastName="Harting" BirthYear="0" CreditType="Film Editing" CreditSubtype="Film Editor" CreditedAs=""/>
+      <Credit FirstName="Jabril" MiddleName="" LastName="Battle" BirthYear="0" CreditType="Music" CreditSubtype="Composer" CreditedAs="Metaphor the Great"/>
+      <Credit FirstName="Jonathan" MiddleName="" LastName="Jackson" BirthYear="0" CreditType="Music" CreditSubtype="Composer" CreditedAs=""/>
+      <Credit FirstName="Derryck" MiddleName="&quot;Big Tank&quot;" LastName="Thornton" BirthYear="0" CreditType="Music" CreditSubtype="Theme By" CreditedAs=""/>
+      <Credit FirstName="Aaron" MiddleName="" LastName="McGruder" BirthYear="0" CreditType="Music" CreditSubtype="Theme By" CreditedAs=""/>
+      <Credit FirstName="Gabriel" MiddleName="" LastName="Benn" BirthYear="0" CreditType="Music" CreditSubtype="Theme By" CreditedAs=""/>
+      <Divider Caption="The Band" Type="Group" CreditType="Music"/>
+      <Credit FirstName="G." MiddleName="Roger" LastName="Abell" BirthYear="0" CreditType="Music" CreditSubtype="Theme By" CreditedAs="" CustomRole="Theme Song"/>
+      <Credit FirstName="Heather" MiddleName="" LastName="Olsen" BirthYear="0" CreditType="Sound" CreditSubtype="Sound Designer" CreditedAs=""/>
+      <Credit FirstName="Melissa" MiddleName="" LastName="Ellis" BirthYear="0" CreditType="Sound" CreditSubtype="Sound Re-Recording Mixer" CreditedAs=""/>
+      <Credit FirstName="Fil" MiddleName="" LastName="Brown" BirthYear="0" CreditType="Sound" CreditSubtype="Sound Re-Recording Mixer" CreditedAs=""/>
+      <Divider Caption="2. Bitches to Rags" Type="Episode"/>
+      <Credit FirstName="Young" MiddleName="Chan" LastName="Kim" BirthYear="0" CreditType="Direction" CreditSubtype="Director" CreditedAs=""/>
+      <Credit FirstName="Aaron" MiddleName="" LastName="McGruder" BirthYear="0" CreditType="Writing" CreditSubtype="Created By" CreditedAs=""/>
+      <Credit FirstName="Aaron" MiddleName="" LastName="McGruder" BirthYear="0" CreditType="Writing" CreditSubtype="Writer" CreditedAs=""/>
+      <Credit FirstName="Aaron" MiddleName="" LastName="McGruder" BirthYear="0" CreditType="Production" CreditSubtype="Executive Producer" CreditedAs=""/>
+      <Credit FirstName="Rodney" MiddleName="" LastName="Barnes" BirthYear="0" CreditType="Production" CreditSubtype="Executive Producer" CreditedAs=""/>
+      <Credit FirstName="Seung" MiddleName="Eun" LastName="Kim" BirthYear="0" CreditType="Production" CreditSubtype="Producer" CreditedAs=""/>
+      <Credit FirstName="Brian" MiddleName="" LastName="Ash" BirthYear="0" CreditType="Production" CreditSubtype="Producer" CreditedAs=""/>
+      <Credit FirstName="Lee" MiddleName="" LastName="Harting" BirthYear="0" CreditType="Film Editing" CreditSubtype="Film Editor" CreditedAs=""/>
+      <Credit FirstName="Jabril" MiddleName="" LastName="Battle" BirthYear="0" CreditType="Music" CreditSubtype="Composer" CreditedAs=""/>
+      <Credit FirstName="Jonathan" MiddleName="" LastName="Jackson" BirthYear="0" CreditType="Music" CreditSubtype="Composer" CreditedAs=""/>
+      <Credit FirstName="Derryck" MiddleName="&quot;Big Tank&quot;" LastName="Thornton" BirthYear="0" CreditType="Music" CreditSubtype="Theme By" CreditedAs=""/>
+      <Credit FirstName="Aaron" MiddleName="" LastName="McGruder" BirthYear="0" CreditType="Music" CreditSubtype="Theme By" CreditedAs=""/>
+      <Credit FirstName="Gabriel" MiddleName="" LastName="Benn" BirthYear="0" CreditType="Music" CreditSubtype="Theme By" CreditedAs=""/>
+      <Credit FirstName="Heather" MiddleName="" LastName="Olsen" BirthYear="0" CreditType="Sound" CreditSubtype="Sound Designer" CreditedAs=""/>
+      <Credit FirstName="Melissa" MiddleName="" LastName="Ellis" BirthYear="0" CreditType="Sound" CreditSubtype="Sound Re-Recording Mixer" CreditedAs=""/>
+      <Credit FirstName="Fil" MiddleName="" LastName="Brown" BirthYear="0" CreditType="Sound" CreditSubtype="Sound Re-Recording Mixer" CreditedAs=""/>
+      <Divider Caption="3. The Red Ball" Type="Episode"/>
+      <Credit FirstName="Young" MiddleName="Chan" LastName="Kim" BirthYear="0" CreditType="Direction" CreditSubtype="Director" CreditedAs=""/>
+      <Credit FirstName="Aaron" MiddleName="" LastName="McGruder" BirthYear="0" CreditType="Writing" CreditSubtype="Created By" CreditedAs=""/>
+      <Credit FirstName="Aaron" MiddleName="" LastName="McGruder" BirthYear="0" CreditType="Writing" CreditSubtype="Writer" CreditedAs=""/>
+      <Credit FirstName="Aaron" MiddleName="" LastName="McGruder" BirthYear="0" CreditType="Production" CreditSubtype="Executive Producer" CreditedAs=""/>
+      <Credit FirstName="Rodney" MiddleName="" LastName="Barnes" BirthYear="0" CreditType="Production" CreditSubtype="Executive Producer" CreditedAs=""/>
+      <Credit FirstName="Seung" MiddleName="Eun" LastName="Kim" BirthYear="0" CreditType="Production" CreditSubtype="Producer" CreditedAs=""/>
+      <Credit FirstName="Brian" MiddleName="" LastName="Ash" BirthYear="0" CreditType="Production" CreditSubtype="Producer" CreditedAs=""/>
+      <Credit FirstName="Lee" MiddleName="" LastName="Harting" BirthYear="0" CreditType="Film Editing" CreditSubtype="Film Editor" CreditedAs=""/>
+      <Credit FirstName="Jabril" MiddleName="" LastName="Battle" BirthYear="0" CreditType="Music" CreditSubtype="Composer" CreditedAs="Metaphor the Great"/>
+      <Credit FirstName="Jonathan" MiddleName="" LastName="Jackson" BirthYear="0" CreditType="Music" CreditSubtype="Composer" CreditedAs=""/>
+      <Credit FirstName="Derryck" MiddleName="&quot;Big Tank&quot;" LastName="Thornton" BirthYear="0" CreditType="Music" CreditSubtype="Theme By" CreditedAs=""/>
+      <Credit FirstName="Aaron" MiddleName="" LastName="McGruder" BirthYear="0" CreditType="Music" CreditSubtype="Theme By" CreditedAs=""/>
+      <Credit FirstName="Gabriel" MiddleName="" LastName="Benn" BirthYear="0" CreditType="Music" CreditSubtype="Theme By" CreditedAs=""/>
+      <Credit FirstName="Heather" MiddleName="" LastName="Olsen" BirthYear="0" CreditType="Sound" CreditSubtype="Sound Designer" CreditedAs=""/>
+      <Credit FirstName="Melissa" MiddleName="" LastName="Ellis" BirthYear="0" CreditType="Sound" CreditSubtype="Sound Re-Recording Mixer" CreditedAs=""/>
+      <Credit FirstName="Fil" MiddleName="" LastName="Brown" BirthYear="0" CreditType="Sound" CreditSubtype="Sound Re-Recording Mixer" CreditedAs=""/>
+      <Divider Caption="4. The Story of Jimmy Rebel" Type="Episode"/>
+      <Credit FirstName="Sung" MiddleName="Hoon" LastName="Kim" BirthYear="0" CreditType="Direction" CreditSubtype="Director" CreditedAs=""/>
+      <Credit FirstName="Aaron" MiddleName="" LastName="McGruder" BirthYear="0" CreditType="Writing" CreditSubtype="Created By" CreditedAs=""/>
+      <Credit FirstName="Aaron" MiddleName="" LastName="McGruder" BirthYear="0" CreditType="Writing" CreditSubtype="Writer" CreditedAs=""/>
+      <Credit FirstName="Aaron" MiddleName="" LastName="McGruder" BirthYear="0" CreditType="Production" CreditSubtype="Executive Producer" CreditedAs=""/>
+      <Credit FirstName="Rodney" MiddleName="" LastName="Barnes" BirthYear="0" CreditType="Production" CreditSubtype="Executive Producer" CreditedAs=""/>
+      <Credit FirstName="Seung" MiddleName="Eun" LastName="Kim" BirthYear="0" CreditType="Production" CreditSubtype="Producer" CreditedAs=""/>
+      <Credit FirstName="Brian" MiddleName="" LastName="Ash" BirthYear="0" CreditType="Production" CreditSubtype="Producer" CreditedAs=""/>
+      <Credit FirstName="Lee" MiddleName="" LastName="Harting" BirthYear="0" CreditType="Film Editing" CreditSubtype="Film Editor" CreditedAs=""/>
+      <Credit FirstName="Jabril" MiddleName="" LastName="Battle" BirthYear="0" CreditType="Music" CreditSubtype="Composer" CreditedAs=""/>
+      <Credit FirstName="Jonathan" MiddleName="" LastName="Jackson" BirthYear="0" CreditType="Music" CreditSubtype="Composer" CreditedAs=""/>
+      <Credit FirstName="Derryck" MiddleName="&quot;Big Tank&quot;" LastName="Thornton" BirthYear="0" CreditType="Music" CreditSubtype="Theme By" CreditedAs=""/>
+      <Credit FirstName="Aaron" MiddleName="" LastName="McGruder" BirthYear="0" CreditType="Music" CreditSubtype="Theme By" CreditedAs=""/>
+      <Credit FirstName="Gabriel" MiddleName="" LastName="Benn" BirthYear="0" CreditType="Music" CreditSubtype="Theme By" CreditedAs=""/>
+      <Credit FirstName="Heather" MiddleName="" LastName="Olsen" BirthYear="0" CreditType="Sound" CreditSubtype="Sound Designer" CreditedAs=""/>
+      <Credit FirstName="Melissa" MiddleName="" LastName="Ellis" BirthYear="0" CreditType="Sound" CreditSubtype="Sound Re-Recording Mixer" CreditedAs=""/>
+      <Credit FirstName="Fil" MiddleName="" LastName="Brown" BirthYear="0" CreditType="Sound" CreditSubtype="Sound Re-Recording Mixer" CreditedAs=""/>
+      <Divider Caption="5. Stinkmeaner 3: The Hateocracy" Type="Episode"/>
+      <Credit FirstName="Sung" MiddleName="Dae" LastName="Kang" BirthYear="0" CreditType="Direction" CreditSubtype="Director" CreditedAs=""/>
+      <Credit FirstName="Aaron" MiddleName="" LastName="McGruder" BirthYear="0" CreditType="Writing" CreditSubtype="Created By" CreditedAs=""/>
+      <Credit FirstName="Aaron" MiddleName="" LastName="McGruder" BirthYear="0" CreditType="Writing" CreditSubtype="Writer" CreditedAs=""/>
+      <Credit FirstName="Aaron" MiddleName="" LastName="McGruder" BirthYear="0" CreditType="Production" CreditSubtype="Executive Producer" CreditedAs=""/>
+      <Credit FirstName="Rodney" MiddleName="" LastName="Barnes" BirthYear="0" CreditType="Production" CreditSubtype="Executive Producer" CreditedAs=""/>
+      <Credit FirstName="Seung" MiddleName="Eun" LastName="Kim" BirthYear="0" CreditType="Production" CreditSubtype="Producer" CreditedAs=""/>
+      <Credit FirstName="Brian" MiddleName="" LastName="Ash" BirthYear="0" CreditType="Production" CreditSubtype="Producer" CreditedAs=""/>
+      <Credit FirstName="Lee" MiddleName="" LastName="Harting" BirthYear="0" CreditType="Film Editing" CreditSubtype="Film Editor" CreditedAs=""/>
+      <Credit FirstName="Jabril" MiddleName="" LastName="Battle" BirthYear="0" CreditType="Music" CreditSubtype="Composer" CreditedAs="Metaphor the Great"/>
+      <Credit FirstName="Jonathan" MiddleName="" LastName="Jackson" BirthYear="0" CreditType="Music" CreditSubtype="Composer" CreditedAs=""/>
+      <Credit FirstName="Derryck" MiddleName="&quot;Big Tank&quot;" LastName="Thornton" BirthYear="0" CreditType="Music" CreditSubtype="Theme By" CreditedAs=""/>
+      <Credit FirstName="Aaron" MiddleName="" LastName="McGruder" BirthYear="0" CreditType="Music" CreditSubtype="Theme By" CreditedAs=""/>
+      <Credit FirstName="Gabriel" MiddleName="" LastName="Benn" BirthYear="0" CreditType="Music" CreditSubtype="Theme By" CreditedAs=""/>
+      <Credit FirstName="Heather" MiddleName="" LastName="Olsen" BirthYear="0" CreditType="Sound" CreditSubtype="Sound Designer" CreditedAs=""/>
+      <Credit FirstName="Melissa" MiddleName="" LastName="Ellis" BirthYear="0" CreditType="Sound" CreditSubtype="Sound Re-Recording Mixer" CreditedAs=""/>
+      <Credit FirstName="Fil" MiddleName="" LastName="Brown" BirthYear="0" CreditType="Sound" CreditSubtype="Sound Re-Recording Mixer" CreditedAs=""/>
+      <Divider Caption="6. Smokin&apos; with Cigarettes" Type="Episode"/>
+      <Credit FirstName="Sung" MiddleName="Hoon" LastName="Kim" BirthYear="0" CreditType="Direction" CreditSubtype="Director" CreditedAs=""/>
+      <Credit FirstName="Aaron" MiddleName="" LastName="McGruder" BirthYear="0" CreditType="Writing" CreditSubtype="Created By" CreditedAs=""/>
+      <Credit FirstName="Aaron" MiddleName="" LastName="McGruder" BirthYear="0" CreditType="Writing" CreditSubtype="Writer" CreditedAs=""/>
+      <Credit FirstName="Aaron" MiddleName="" LastName="McGruder" BirthYear="0" CreditType="Production" CreditSubtype="Executive Producer" CreditedAs=""/>
+      <Credit FirstName="Rodney" MiddleName="" LastName="Barnes" BirthYear="0" CreditType="Production" CreditSubtype="Executive Producer" CreditedAs=""/>
+      <Credit FirstName="Seung" MiddleName="Eun" LastName="Kim" BirthYear="0" CreditType="Production" CreditSubtype="Producer" CreditedAs=""/>
+      <Credit FirstName="Brian" MiddleName="" LastName="Ash" BirthYear="0" CreditType="Production" CreditSubtype="Producer" CreditedAs=""/>
+      <Credit FirstName="Lee" MiddleName="" LastName="Harting" BirthYear="0" CreditType="Film Editing" CreditSubtype="Film Editor" CreditedAs=""/>
+      <Credit FirstName="Jabril" MiddleName="" LastName="Battle" BirthYear="0" CreditType="Music" CreditSubtype="Composer" CreditedAs=""/>
+      <Credit FirstName="Jonathan" MiddleName="" LastName="Jackson" BirthYear="0" CreditType="Music" CreditSubtype="Composer" CreditedAs=""/>
+      <Credit FirstName="Derryck" MiddleName="&quot;Big Tank&quot;" LastName="Thornton" BirthYear="0" CreditType="Music" CreditSubtype="Theme By" CreditedAs=""/>
+      <Credit FirstName="Aaron" MiddleName="" LastName="McGruder" BirthYear="0" CreditType="Music" CreditSubtype="Theme By" CreditedAs=""/>
+      <Credit FirstName="Gabriel" MiddleName="" LastName="Benn" BirthYear="0" CreditType="Music" CreditSubtype="Theme By" CreditedAs=""/>
+      <Credit FirstName="Heather" MiddleName="" LastName="Olsen" BirthYear="0" CreditType="Sound" CreditSubtype="Sound Designer" CreditedAs=""/>
+      <Credit FirstName="Melissa" MiddleName="" LastName="Ellis" BirthYear="0" CreditType="Sound" CreditSubtype="Sound Re-Recording Mixer" CreditedAs=""/>
+      <Credit FirstName="Fil" MiddleName="" LastName="Brown" BirthYear="0" CreditType="Sound" CreditSubtype="Sound Re-Recording Mixer" CreditedAs=""/>
+      <Divider Caption="7. The Fund-Raiser" Type="Episode"/>
+      <Credit FirstName="Sung" MiddleName="Dae" LastName="Kang" BirthYear="0" CreditType="Direction" CreditSubtype="Director" CreditedAs=""/>
+      <Credit FirstName="Aaron" MiddleName="" LastName="McGruder" BirthYear="0" CreditType="Writing" CreditSubtype="Created By" CreditedAs=""/>
+      <Credit FirstName="Aaron" MiddleName="" LastName="McGruder" BirthYear="0" CreditType="Writing" CreditSubtype="Writer" CreditedAs=""/>
+      <Credit FirstName="Aaron" MiddleName="" LastName="McGruder" BirthYear="0" CreditType="Production" CreditSubtype="Executive Producer" CreditedAs=""/>
+      <Credit FirstName="Rodney" MiddleName="" LastName="Barnes" BirthYear="0" CreditType="Production" CreditSubtype="Executive Producer" CreditedAs=""/>
+      <Credit FirstName="Seung" MiddleName="Eun" LastName="Kim" BirthYear="0" CreditType="Production" CreditSubtype="Producer" CreditedAs=""/>
+      <Credit FirstName="Brian" MiddleName="" LastName="Ash" BirthYear="0" CreditType="Production" CreditSubtype="Producer" CreditedAs=""/>
+      <Credit FirstName="Lee" MiddleName="" LastName="Harting" BirthYear="0" CreditType="Film Editing" CreditSubtype="Film Editor" CreditedAs=""/>
+      <Credit FirstName="Jabril" MiddleName="" LastName="Battle" BirthYear="0" CreditType="Music" CreditSubtype="Composer" CreditedAs="Metaphor the Great"/>
+      <Credit FirstName="Jonathan" MiddleName="" LastName="Jackson" BirthYear="0" CreditType="Music" CreditSubtype="Composer" CreditedAs=""/>
+      <Credit FirstName="Derryck" MiddleName="&quot;Big Tank&quot;" LastName="Thornton" BirthYear="0" CreditType="Music" CreditSubtype="Theme By" CreditedAs=""/>
+      <Credit FirstName="Aaron" MiddleName="" LastName="McGruder" BirthYear="0" CreditType="Music" CreditSubtype="Theme By" CreditedAs=""/>
+      <Credit FirstName="Gabriel" MiddleName="" LastName="Benn" BirthYear="0" CreditType="Music" CreditSubtype="Theme By" CreditedAs=""/>
+      <Credit FirstName="Heather" MiddleName="" LastName="Olsen" BirthYear="0" CreditType="Sound" CreditSubtype="Sound Designer" CreditedAs=""/>
+      <Credit FirstName="Melissa" MiddleName="" LastName="Ellis" BirthYear="0" CreditType="Sound" CreditSubtype="Sound Re-Recording Mixer" CreditedAs=""/>
+      <Credit FirstName="Fil" MiddleName="" LastName="Brown" BirthYear="0" CreditType="Sound" CreditSubtype="Sound Re-Recording Mixer" CreditedAs=""/>
+      <Divider Caption="8. Pause" Type="Episode"/>
+      <Credit FirstName="Sung" MiddleName="Hoon" LastName="Kim" BirthYear="0" CreditType="Direction" CreditSubtype="Director" CreditedAs=""/>
+      <Credit FirstName="Aaron" MiddleName="" LastName="McGruder" BirthYear="0" CreditType="Writing" CreditSubtype="Created By" CreditedAs=""/>
+      <Credit FirstName="Aaron" MiddleName="" LastName="McGruder" BirthYear="0" CreditType="Writing" CreditSubtype="Writer" CreditedAs=""/>
+      <Credit FirstName="Rodney" MiddleName="" LastName="Barnes" BirthYear="0" CreditType="Writing" CreditSubtype="Writer" CreditedAs=""/>
+      <Credit FirstName="Aaron" MiddleName="" LastName="McGruder" BirthYear="0" CreditType="Production" CreditSubtype="Executive Producer" CreditedAs=""/>
+      <Credit FirstName="Rodney" MiddleName="" LastName="Barnes" BirthYear="0" CreditType="Production" CreditSubtype="Executive Producer" CreditedAs=""/>
+      <Credit FirstName="Seung" MiddleName="Eun" LastName="Kim" BirthYear="0" CreditType="Production" CreditSubtype="Producer" CreditedAs=""/>
+      <Credit FirstName="Brian" MiddleName="" LastName="Ash" BirthYear="0" CreditType="Production" CreditSubtype="Producer" CreditedAs=""/>
+      <Credit FirstName="Lee" MiddleName="" LastName="Harting" BirthYear="0" CreditType="Film Editing" CreditSubtype="Film Editor" CreditedAs=""/>
+      <Credit FirstName="Jabril" MiddleName="" LastName="Battle" BirthYear="0" CreditType="Music" CreditSubtype="Composer" CreditedAs=""/>
+      <Credit FirstName="Jonathan" MiddleName="" LastName="Jackson" BirthYear="0" CreditType="Music" CreditSubtype="Composer" CreditedAs=""/>
+      <Credit FirstName="Derryck" MiddleName="&quot;Big Tank&quot;" LastName="Thornton" BirthYear="0" CreditType="Music" CreditSubtype="Theme By" CreditedAs=""/>
+      <Credit FirstName="Aaron" MiddleName="" LastName="McGruder" BirthYear="0" CreditType="Music" CreditSubtype="Theme By" CreditedAs=""/>
+      <Credit FirstName="Gabriel" MiddleName="" LastName="Benn" BirthYear="0" CreditType="Music" CreditSubtype="Theme By" CreditedAs=""/>
+      <Credit FirstName="Heather" MiddleName="" LastName="Olsen" BirthYear="0" CreditType="Sound" CreditSubtype="Sound Designer" CreditedAs=""/>
+      <Credit FirstName="Melissa" MiddleName="" LastName="Ellis" BirthYear="0" CreditType="Sound" CreditSubtype="Sound Re-Recording Mixer" CreditedAs=""/>
+      <Credit FirstName="Fil" MiddleName="" LastName="Brown" BirthYear="0" CreditType="Sound" CreditSubtype="Sound Re-Recording Mixer" CreditedAs=""/>
+      <Divider Caption="9. A Date with the Booty Warrior" Type="Episode"/>
+      <Credit FirstName="Young" MiddleName="Chan" LastName="Kim" BirthYear="0" CreditType="Direction" CreditSubtype="Director" CreditedAs=""/>
+      <Credit FirstName="Aaron" MiddleName="" LastName="McGruder" BirthYear="0" CreditType="Writing" CreditSubtype="Created By" CreditedAs=""/>
+      <Credit FirstName="Aaron" MiddleName="" LastName="McGruder" BirthYear="0" CreditType="Writing" CreditSubtype="Writer" CreditedAs=""/>
+      <Credit FirstName="Aaron" MiddleName="" LastName="McGruder" BirthYear="0" CreditType="Production" CreditSubtype="Executive Producer" CreditedAs=""/>
+      <Credit FirstName="Rodney" MiddleName="" LastName="Barnes" BirthYear="0" CreditType="Production" CreditSubtype="Executive Producer" CreditedAs=""/>
+      <Credit FirstName="Seung" MiddleName="Eun" LastName="Kim" BirthYear="0" CreditType="Production" CreditSubtype="Producer" CreditedAs=""/>
+      <Credit FirstName="Brian" MiddleName="" LastName="Ash" BirthYear="0" CreditType="Production" CreditSubtype="Producer" CreditedAs=""/>
+      <Credit FirstName="Lee" MiddleName="" LastName="Harting" BirthYear="0" CreditType="Film Editing" CreditSubtype="Film Editor" CreditedAs=""/>
+      <Credit FirstName="Jabril" MiddleName="" LastName="Battle" BirthYear="0" CreditType="Music" CreditSubtype="Composer" CreditedAs="Metaphor the Great"/>
+      <Credit FirstName="Jonathan" MiddleName="" LastName="Jackson" BirthYear="0" CreditType="Music" CreditSubtype="Composer" CreditedAs=""/>
+      <Credit FirstName="Derryck" MiddleName="&quot;Big Tank&quot;" LastName="Thornton" BirthYear="0" CreditType="Music" CreditSubtype="Theme By" CreditedAs=""/>
+      <Credit FirstName="Aaron" MiddleName="" LastName="McGruder" BirthYear="0" CreditType="Music" CreditSubtype="Theme By" CreditedAs=""/>
+      <Credit FirstName="Gabriel" MiddleName="" LastName="Benn" BirthYear="0" CreditType="Music" CreditSubtype="Theme By" CreditedAs=""/>
+      <Credit FirstName="Heather" MiddleName="" LastName="Olsen" BirthYear="0" CreditType="Sound" CreditSubtype="Sound Designer" CreditedAs=""/>
+      <Credit FirstName="Melissa" MiddleName="" LastName="Ellis" BirthYear="0" CreditType="Sound" CreditSubtype="Sound Re-Recording Mixer" CreditedAs=""/>
+      <Credit FirstName="Fil" MiddleName="" LastName="Brown" BirthYear="0" CreditType="Sound" CreditSubtype="Sound Re-Recording Mixer" CreditedAs=""/>
+      <Divider Caption="10. The Story of Lando Freeman" Type="Episode"/>
+      <Credit FirstName="Sung" MiddleName="Dae" LastName="Kang" BirthYear="0" CreditType="Direction" CreditSubtype="Director" CreditedAs=""/>
+      <Credit FirstName="Aaron" MiddleName="" LastName="McGruder" BirthYear="0" CreditType="Writing" CreditSubtype="Created By" CreditedAs=""/>
+      <Credit FirstName="Aaron" MiddleName="" LastName="McGruder" BirthYear="0" CreditType="Writing" CreditSubtype="Writer" CreditedAs=""/>
+      <Credit FirstName="Aaron" MiddleName="" LastName="McGruder" BirthYear="0" CreditType="Production" CreditSubtype="Executive Producer" CreditedAs=""/>
+      <Credit FirstName="Rodney" MiddleName="" LastName="Barnes" BirthYear="0" CreditType="Production" CreditSubtype="Executive Producer" CreditedAs=""/>
+      <Credit FirstName="Seung" MiddleName="Eun" LastName="Kim" BirthYear="0" CreditType="Production" CreditSubtype="Producer" CreditedAs=""/>
+      <Credit FirstName="Brian" MiddleName="" LastName="Ash" BirthYear="0" CreditType="Production" CreditSubtype="Producer" CreditedAs=""/>
+      <Credit FirstName="Lee" MiddleName="" LastName="Harting" BirthYear="0" CreditType="Film Editing" CreditSubtype="Film Editor" CreditedAs=""/>
+      <Credit FirstName="Jabril" MiddleName="" LastName="Battle" BirthYear="0" CreditType="Music" CreditSubtype="Composer" CreditedAs="Metaphor the Great"/>
+      <Credit FirstName="Jonathan" MiddleName="" LastName="Jackson" BirthYear="0" CreditType="Music" CreditSubtype="Composer" CreditedAs=""/>
+      <Credit FirstName="Derryck" MiddleName="&quot;Big Tank&quot;" LastName="Thornton" BirthYear="0" CreditType="Music" CreditSubtype="Theme By" CreditedAs=""/>
+      <Credit FirstName="Aaron" MiddleName="" LastName="McGruder" BirthYear="0" CreditType="Music" CreditSubtype="Theme By" CreditedAs=""/>
+      <Credit FirstName="Gabriel" MiddleName="" LastName="Benn" BirthYear="0" CreditType="Music" CreditSubtype="Theme By" CreditedAs=""/>
+      <Credit FirstName="Heather" MiddleName="" LastName="Olsen" BirthYear="0" CreditType="Sound" CreditSubtype="Sound Designer" CreditedAs=""/>
+      <Credit FirstName="Melissa" MiddleName="" LastName="Ellis" BirthYear="0" CreditType="Sound" CreditSubtype="Sound Re-Recording Mixer" CreditedAs=""/>
+      <Credit FirstName="Fil" MiddleName="" LastName="Brown" BirthYear="0" CreditType="Sound" CreditSubtype="Sound Re-Recording Mixer" CreditedAs=""/>
+      <Divider Caption="11. The Lovely Ebony Brown" Type="Episode"/>
+      <Credit FirstName="Young" MiddleName="Chan" LastName="Kim" BirthYear="0" CreditType="Direction" CreditSubtype="Director" CreditedAs=""/>
+      <Credit FirstName="Aaron" MiddleName="" LastName="McGruder" BirthYear="0" CreditType="Writing" CreditSubtype="Created By" CreditedAs=""/>
+      <Credit FirstName="Rodney" MiddleName="" LastName="Barnes" BirthYear="0" CreditType="Writing" CreditSubtype="Writer" CreditedAs=""/>
+      <Credit FirstName="Aaron" MiddleName="" LastName="McGruder" BirthYear="0" CreditType="Writing" CreditSubtype="Writer" CreditedAs=""/>
+      <Credit FirstName="Aaron" MiddleName="" LastName="McGruder" BirthYear="0" CreditType="Production" CreditSubtype="Executive Producer" CreditedAs=""/>
+      <Credit FirstName="Rodney" MiddleName="" LastName="Barnes" BirthYear="0" CreditType="Production" CreditSubtype="Executive Producer" CreditedAs=""/>
+      <Credit FirstName="Seung" MiddleName="Eun" LastName="Kim" BirthYear="0" CreditType="Production" CreditSubtype="Producer" CreditedAs=""/>
+      <Credit FirstName="Brian" MiddleName="" LastName="Ash" BirthYear="0" CreditType="Production" CreditSubtype="Producer" CreditedAs=""/>
+      <Credit FirstName="Lee" MiddleName="" LastName="Harting" BirthYear="0" CreditType="Film Editing" CreditSubtype="Film Editor" CreditedAs=""/>
+      <Credit FirstName="Jabril" MiddleName="" LastName="Battle" BirthYear="0" CreditType="Music" CreditSubtype="Composer" CreditedAs="Metaphor the Great"/>
+      <Credit FirstName="Jonathan" MiddleName="" LastName="Jackson" BirthYear="0" CreditType="Music" CreditSubtype="Composer" CreditedAs=""/>
+      <Credit FirstName="Derryck" MiddleName="&quot;Big Tank&quot;" LastName="Thornton" BirthYear="0" CreditType="Music" CreditSubtype="Theme By" CreditedAs=""/>
+      <Credit FirstName="Aaron" MiddleName="" LastName="McGruder" BirthYear="0" CreditType="Music" CreditSubtype="Theme By" CreditedAs=""/>
+      <Credit FirstName="Gabriel" MiddleName="" LastName="Benn" BirthYear="0" CreditType="Music" CreditSubtype="Theme By" CreditedAs=""/>
+      <Credit FirstName="Heather" MiddleName="" LastName="Olsen" BirthYear="0" CreditType="Sound" CreditSubtype="Sound Designer" CreditedAs=""/>
+      <Credit FirstName="Melissa" MiddleName="" LastName="Ellis" BirthYear="0" CreditType="Sound" CreditSubtype="Sound Re-Recording Mixer" CreditedAs=""/>
+      <Credit FirstName="Fil" MiddleName="" LastName="Brown" BirthYear="0" CreditType="Sound" CreditSubtype="Sound Re-Recording Mixer" CreditedAs=""/>
+      <Divider Caption="12. Mr. Medicinal" Type="Episode"/>
+      <Credit FirstName="Sung" MiddleName="Hoon" LastName="Kim" BirthYear="0" CreditType="Direction" CreditSubtype="Director" CreditedAs=""/>
+      <Credit FirstName="Aaron" MiddleName="" LastName="McGruder" BirthYear="0" CreditType="Writing" CreditSubtype="Created By" CreditedAs=""/>
+      <Credit FirstName="Aaron" MiddleName="" LastName="McGruder" BirthYear="0" CreditType="Writing" CreditSubtype="Writer" CreditedAs=""/>
+      <Credit FirstName="Aaron" MiddleName="" LastName="McGruder" BirthYear="0" CreditType="Production" CreditSubtype="Executive Producer" CreditedAs=""/>
+      <Credit FirstName="Rodney" MiddleName="" LastName="Barnes" BirthYear="0" CreditType="Production" CreditSubtype="Executive Producer" CreditedAs=""/>
+      <Credit FirstName="Seung" MiddleName="Eun" LastName="Kim" BirthYear="0" CreditType="Production" CreditSubtype="Producer" CreditedAs=""/>
+      <Credit FirstName="Brian" MiddleName="" LastName="Ash" BirthYear="0" CreditType="Production" CreditSubtype="Producer" CreditedAs=""/>
+      <Credit FirstName="Lee" MiddleName="" LastName="Harting" BirthYear="0" CreditType="Film Editing" CreditSubtype="Film Editor" CreditedAs=""/>
+      <Credit FirstName="Jabril" MiddleName="" LastName="Battle" BirthYear="0" CreditType="Music" CreditSubtype="Composer" CreditedAs="Metaphor the Great"/>
+      <Credit FirstName="Jonathan" MiddleName="" LastName="Jackson" BirthYear="0" CreditType="Music" CreditSubtype="Composer" CreditedAs=""/>
+      <Credit FirstName="Derryck" MiddleName="&quot;Big Tank&quot;" LastName="Thornton" BirthYear="0" CreditType="Music" CreditSubtype="Theme By" CreditedAs=""/>
+      <Credit FirstName="Aaron" MiddleName="" LastName="McGruder" BirthYear="0" CreditType="Music" CreditSubtype="Theme By" CreditedAs=""/>
+      <Credit FirstName="Gabriel" MiddleName="" LastName="Benn" BirthYear="0" CreditType="Music" CreditSubtype="Theme By" CreditedAs=""/>
+      <Credit FirstName="Heather" MiddleName="" LastName="Olsen" BirthYear="0" CreditType="Sound" CreditSubtype="Sound Designer" CreditedAs=""/>
+      <Credit FirstName="Melissa" MiddleName="" LastName="Ellis" BirthYear="0" CreditType="Sound" CreditSubtype="Sound Re-Recording Mixer" CreditedAs=""/>
+      <Credit FirstName="Fil" MiddleName="" LastName="Brown" BirthYear="0" CreditType="Sound" CreditSubtype="Sound Re-Recording Mixer" CreditedAs=""/>
+      <Divider Caption="13. The Fried Chicken Flu" Type="Episode"/>
+      <Credit FirstName="Sung" MiddleName="Dae" LastName="Kang" BirthYear="0" CreditType="Direction" CreditSubtype="Director" CreditedAs=""/>
+      <Credit FirstName="Aaron" MiddleName="" LastName="McGruder" BirthYear="0" CreditType="Writing" CreditSubtype="Created By" CreditedAs=""/>
+      <Credit FirstName="Aaron" MiddleName="" LastName="McGruder" BirthYear="0" CreditType="Writing" CreditSubtype="Writer" CreditedAs=""/>
+      <Credit FirstName="Aaron" MiddleName="" LastName="McGruder" BirthYear="0" CreditType="Production" CreditSubtype="Executive Producer" CreditedAs=""/>
+      <Credit FirstName="Rodney" MiddleName="" LastName="Barnes" BirthYear="0" CreditType="Production" CreditSubtype="Executive Producer" CreditedAs=""/>
+      <Credit FirstName="Seung" MiddleName="Eun" LastName="Kim" BirthYear="0" CreditType="Production" CreditSubtype="Producer" CreditedAs=""/>
+      <Credit FirstName="Brian" MiddleName="" LastName="Ash" BirthYear="0" CreditType="Production" CreditSubtype="Producer" CreditedAs=""/>
+      <Credit FirstName="Lee" MiddleName="" LastName="Harting" BirthYear="0" CreditType="Film Editing" CreditSubtype="Film Editor" CreditedAs=""/>
+      <Credit FirstName="Jabril" MiddleName="" LastName="Battle" BirthYear="0" CreditType="Music" CreditSubtype="Composer" CreditedAs="Metaphor the Great"/>
+      <Credit FirstName="Jonathan" MiddleName="" LastName="Jackson" BirthYear="0" CreditType="Music" CreditSubtype="Composer" CreditedAs=""/>
+      <Credit FirstName="Derryck" MiddleName="&quot;Big Tank&quot;" LastName="Thornton" BirthYear="0" CreditType="Music" CreditSubtype="Theme By" CreditedAs=""/>
+      <Credit FirstName="Aaron" MiddleName="" LastName="McGruder" BirthYear="0" CreditType="Music" CreditSubtype="Theme By" CreditedAs=""/>
+      <Credit FirstName="Gabriel" MiddleName="" LastName="Benn" BirthYear="0" CreditType="Music" CreditSubtype="Theme By" CreditedAs=""/>
+      <Credit FirstName="Heather" MiddleName="" LastName="Olsen" BirthYear="0" CreditType="Sound" CreditSubtype="Sound Designer" CreditedAs=""/>
+      <Credit FirstName="Melissa" MiddleName="" LastName="Ellis" BirthYear="0" CreditType="Sound" CreditSubtype="Sound Re-Recording Mixer" CreditedAs=""/>
+      <Credit FirstName="Fil" MiddleName="" LastName="Brown" BirthYear="0" CreditType="Sound" CreditSubtype="Sound Re-Recording Mixer" CreditedAs=""/>
+      <Divider Caption="14. The Color Ruckus" Type="Episode"/>
+      <Credit FirstName="Young" MiddleName="Chan" LastName="Kim" BirthYear="0" CreditType="Direction" CreditSubtype="Director" CreditedAs=""/>
+      <Credit FirstName="Aaron" MiddleName="" LastName="McGruder" BirthYear="0" CreditType="Writing" CreditSubtype="Created By" CreditedAs=""/>
+      <Credit FirstName="Aaron" MiddleName="" LastName="McGruder" BirthYear="0" CreditType="Writing" CreditSubtype="Writer" CreditedAs=""/>
+      <Credit FirstName="Aaron" MiddleName="" LastName="McGruder" BirthYear="0" CreditType="Production" CreditSubtype="Executive Producer" CreditedAs=""/>
+      <Credit FirstName="Rodney" MiddleName="" LastName="Barnes" BirthYear="0" CreditType="Production" CreditSubtype="Executive Producer" CreditedAs=""/>
+      <Credit FirstName="Seung" MiddleName="Eun" LastName="Kim" BirthYear="0" CreditType="Production" CreditSubtype="Producer" CreditedAs=""/>
+      <Credit FirstName="Brian" MiddleName="" LastName="Ash" BirthYear="0" CreditType="Production" CreditSubtype="Producer" CreditedAs=""/>
+      <Credit FirstName="Lee" MiddleName="" LastName="Harting" BirthYear="0" CreditType="Film Editing" CreditSubtype="Film Editor" CreditedAs=""/>
+      <Credit FirstName="Jabril" MiddleName="" LastName="Battle" BirthYear="0" CreditType="Music" CreditSubtype="Composer" CreditedAs="Metaphor the Great"/>
+      <Credit FirstName="Jonathan" MiddleName="" LastName="Jackson" BirthYear="0" CreditType="Music" CreditSubtype="Composer" CreditedAs=""/>
+      <Credit FirstName="Derryck" MiddleName="&quot;Big Tank&quot;" LastName="Thornton" BirthYear="0" CreditType="Music" CreditSubtype="Theme By" CreditedAs=""/>
+      <Credit FirstName="Aaron" MiddleName="" LastName="McGruder" BirthYear="0" CreditType="Music" CreditSubtype="Theme By" CreditedAs=""/>
+      <Credit FirstName="Gabriel" MiddleName="" LastName="Benn" BirthYear="0" CreditType="Music" CreditSubtype="Theme By" CreditedAs=""/>
+      <Credit FirstName="Heather" MiddleName="" LastName="Olsen" BirthYear="0" CreditType="Sound" CreditSubtype="Sound Designer" CreditedAs=""/>
+      <Credit FirstName="Melissa" MiddleName="" LastName="Ellis" BirthYear="0" CreditType="Sound" CreditSubtype="Sound Re-Recording Mixer" CreditedAs=""/>
+      <Credit FirstName="Fil" MiddleName="" LastName="Brown" BirthYear="0" CreditType="Sound" CreditSubtype="Sound Re-Recording Mixer" CreditedAs=""/>
+      <Divider Caption="15. It&apos;s Goin&apos; Down" Type="Episode"/>
+      <Credit FirstName="Sung" MiddleName="Hoon" LastName="Kim" BirthYear="0" CreditType="Direction" CreditSubtype="Director" CreditedAs=""/>
+      <Credit FirstName="Aaron" MiddleName="" LastName="McGruder" BirthYear="0" CreditType="Writing" CreditSubtype="Created By" CreditedAs=""/>
+      <Credit FirstName="Aaron" MiddleName="" LastName="McGruder" BirthYear="0" CreditType="Writing" CreditSubtype="Writer" CreditedAs=""/>
+      <Credit FirstName="Aaron" MiddleName="" LastName="McGruder" BirthYear="0" CreditType="Production" CreditSubtype="Executive Producer" CreditedAs=""/>
+      <Credit FirstName="Rodney" MiddleName="" LastName="Barnes" BirthYear="0" CreditType="Production" CreditSubtype="Executive Producer" CreditedAs=""/>
+      <Credit FirstName="Seung" MiddleName="Eun" LastName="Kim" BirthYear="0" CreditType="Production" CreditSubtype="Producer" CreditedAs=""/>
+      <Credit FirstName="Brian" MiddleName="" LastName="Ash" BirthYear="0" CreditType="Production" CreditSubtype="Producer" CreditedAs=""/>
+      <Credit FirstName="Lee" MiddleName="" LastName="Harting" BirthYear="0" CreditType="Film Editing" CreditSubtype="Film Editor" CreditedAs=""/>
+      <Credit FirstName="Jabril" MiddleName="" LastName="Battle" BirthYear="0" CreditType="Music" CreditSubtype="Composer" CreditedAs="Metaphor the Great"/>
+      <Credit FirstName="Jonathan" MiddleName="" LastName="Jackson" BirthYear="0" CreditType="Music" CreditSubtype="Composer" CreditedAs=""/>
+      <Credit FirstName="Derryck" MiddleName="&quot;Big Tank&quot;" LastName="Thornton" BirthYear="0" CreditType="Music" CreditSubtype="Theme By" CreditedAs=""/>
+      <Credit FirstName="Aaron" MiddleName="" LastName="McGruder" BirthYear="0" CreditType="Music" CreditSubtype="Theme By" CreditedAs=""/>
+      <Credit FirstName="Gabriel" MiddleName="" LastName="Benn" BirthYear="0" CreditType="Music" CreditSubtype="Theme By" CreditedAs=""/>
+      <Credit FirstName="Heather" MiddleName="" LastName="Olsen" BirthYear="0" CreditType="Sound" CreditSubtype="Sound Designer" CreditedAs=""/>
+      <Credit FirstName="Melissa" MiddleName="" LastName="Ellis" BirthYear="0" CreditType="Sound" CreditSubtype="Sound Re-Recording Mixer" CreditedAs=""/>
+      <Credit FirstName="Fil" MiddleName="" LastName="Brown" BirthYear="0" CreditType="Sound" CreditSubtype="Sound Re-Recording Mixer" CreditedAs=""/>
+    </Credits>
+    <Overview>The complete raw, uncut and uncensorted third season of the top-rated comedy hit series is here and packed with special extras. Laugh yourself silly at the hilarious and unpredictable antics of everyone&apos;s favorite bad boys – Huey. Riley, and Robert (Granddad) Freeman.  This 3-disc DVD set contains all of Aaron McGruder&apos;s outrageous &quot;Boondocks&quot; crew, a slew of irreverent bonus features, and the special vocal talents of Bill Maher, Billy Dee Williams and Charlie Murphy.</Overview>
+    <EasterEggs/>
+    <Discs>
+      <Disc>
+        <DescriptionSideA>Episodes 1-5</DescriptionSideA>
+        <DescriptionSideB/>
+        <DiscIDSideA>07454756A3E3B535</DiscIDSideA>
+        <DiscIDSideB/>
+        <LabelSideA>BOONDOCKS_S3_D1</LabelSideA>
+        <LabelSideB/>
+        <DualLayeredSideA>true</DualLayeredSideA>
+        <DualLayeredSideB>false</DualLayeredSideB>
+        <DualSided>false</DualSided>
+        <Location/>
+        <Slot/>
+      </Disc>
+      <Disc>
+        <DescriptionSideA>Episodes 6-10</DescriptionSideA>
+        <DescriptionSideB/>
+        <DiscIDSideA>81A7D7A714DFE347</DiscIDSideA>
+        <DiscIDSideB/>
+        <LabelSideA>BOONDOCKS_S3_D2</LabelSideA>
+        <LabelSideB/>
+        <DualLayeredSideA>true</DualLayeredSideA>
+        <DualLayeredSideB>false</DualLayeredSideB>
+        <DualSided>false</DualSided>
+        <Location/>
+        <Slot/>
+      </Disc>
+      <Disc>
+        <DescriptionSideA>Episodes 11-15</DescriptionSideA>
+        <DescriptionSideB/>
+        <DiscIDSideA>B746F3F390C7F7FD</DiscIDSideA>
+        <DiscIDSideB/>
+        <LabelSideA>BOONDOCKS_S3_D3</LabelSideA>
+        <LabelSideB/>
+        <DualLayeredSideA>true</DualLayeredSideA>
+        <DualLayeredSideB>false</DualLayeredSideB>
+        <DualSided>false</DualSided>
+        <Location/>
+        <Slot/>
+      </Disc>
+    </Discs>
+    <SortTitle>Boondocks: The Complete Third Season</SortTitle>
+    <LastEdited>2014-01-05T18:22:05.000Z</LastEdited>
+    <WishPriority>0</WishPriority>
+    <CountAs>1</CountAs>
+    <PurchaseInfo>
+      <PurchasePrice DenominationType="EUR" DenominationDesc="Europe (Euro)" FormattedValue="€0,00">0</PurchasePrice>
+      <PurchasePlace/>
+      <PurchasePlaceType/>
+      <PurchasePlaceWebsite/>
+      <PurchaseDate>2013-11-30</PurchaseDate>
+      <ReceivedAsGift>false</ReceivedAsGift>
+      <GiftFrom FirstName="" LastName=""/>
+    </PurchaseInfo>
+    <Review Film="0" Video="0" Audio="0" Extras="0"/>
+    <MediaBanners Front="Automatic" Back="Automatic"/>
+    <Events/>
+    <BoxSet>
+      <Parent/>
+      <Contents/>
+    </BoxSet>
+    <LoanInfo>
+      <Loaned>false</Loaned>
+    </LoanInfo>
+    <MyLinks>
+
+</MyLinks>
+    <Notes/>
+    <Tags/>
+    <Locks>
+      <Entire>false</Entire>
+      <Covers>false</Covers>
+      <Title>false</Title>
+      <MediaType>false</MediaType>
+      <Overview>false</Overview>
+      <Regions>false</Regions>
+      <Genres>false</Genres>
+      <SRP>true</SRP>
+      <Studios>false</Studios>
+      <DiscInformation>false</DiscInformation>
+      <Cast>false</Cast>
+      <Crew>false</Crew>
+      <Features>false</Features>
+      <AudioTracks>false</AudioTracks>
+      <Subtitles>false</Subtitles>
+      <EasterEggs>false</EasterEggs>
+      <RunningTime>false</RunningTime>
+      <ReleaseDate>false</ReleaseDate>
+      <ProductionYear>false</ProductionYear>
+      <CaseType>false</CaseType>
+      <VideoFormats>false</VideoFormats>
+      <Rating>false</Rating>
+    </Locks>
+  </DVD>
+</Collection>
